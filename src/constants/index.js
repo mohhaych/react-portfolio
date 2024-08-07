@@ -43,7 +43,7 @@ export const PROJECTS = [
     title: "Recipe Maker",
     image: project1,
     description:
-      " a web application built with Flask, a Python web framework, which allows users to search for recipes based on various criteria such as cuisine, dish type, dietary preferences, and ingredients. The application also provides features for user authentication, allowing registered users to save their favorite recipes and customize their dietary preferences.",
+      "A web application built with Flask, a Python web framework, which allows users to search for recipes based on various criteria such as cuisine, dish type, dietary preferences, and ingredients. The application also provides features for user authentication, allowing registered users to save their favorite recipes and customize their dietary preferences.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   // {
